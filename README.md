@@ -18,7 +18,7 @@
 
 ```typescript
 const siwan = {
-  background: ["한국조형예술고", "디지털콘텐츠디자인"],
+  background: ["예술고 3년", "디자인대 4년"],
   experience: "4.5년 (스타트업)",
   strengths: [
     "디자인 원리 기반 컴포넌트 설계",
