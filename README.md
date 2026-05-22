@@ -62,15 +62,3 @@ const siwan = {
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
 ---
-
-## 주요 성과
-
-| | |
-|---|---|
-| ⚡ | 페이지 로딩 **78.75% 개선** (8초 → 1.7초) |
-| 🧠 | Next.js 메모리 사용량 **40% 감소** — 502 장애 원인 분석·해결 |
-| 💰 | ECS → Vercel 전환 제안·주도 — 인프라 비용 **연 450만원 절감** |
-| 📱 | 하나의 코드베이스로 모바일 웹 · 데스크탑 · 네이티브 웹뷰 **3환경 동시 서비스** |
-| 🌍 | next-i18next 기반 **4개 국어** 국제화 시스템 구축 |
-
----
