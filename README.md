@@ -1,29 +1,17 @@
-<div align="center">
+<div>
 
-# PARK SI WAN
-
-디자이너의 눈과 개발자의 손으로 UX 품질을 높입니다.
-한국조형예술고 3년 → 디지털콘텐츠디자인 4년 → 프론트엔드 개발 4.5년
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/siwandevelop@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siwandevelop@gmail.com)
-[![Resume](https://img.shields.io/badge/이력서_보기-0064FF?style=flat-square&logo=github&logoColor=white)](https://github.com/park-siwan/resume)
-
-</div>
-
----
+# 프로덕트 엔지니어 박시완
 
 ## About Me
 
 ```typescript
 const siwan = {
   background: ["예술고 3년", "디자인대 4년"],
-  experience: "4.5년 (스타트업)",
+  experience: "개발 5년 (스타트업)",
   strengths: [
-    "디자인 원리 기반 컴포넌트 설계",
-    "디자인 시스템 구축 · 유지보수",
-    "실시간 데이터 시각화",
+    "풀스택 MVP 개발로 비지니스 임팩트 실현",
+    "클라우드 비용 최소화로 지속 가능한 경영 주도",
+    "LLM 토큰 비용 감소 + 응답 품질 향상으로 최고의 경험 제공",
   ],
 };
 ```
@@ -41,20 +29,12 @@ const siwan = {
 **Styling & Design System**
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**State & Data**
-
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
-![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat-square)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
 
 **Infra & Testing**
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
 ---
